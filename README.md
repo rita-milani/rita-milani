@@ -1,7 +1,5 @@
 
 
-<!--
-**rita-milani/rita-milani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 [![author](https://img.shields.io/badge/author-rita-milani.svg)](https://www.linkedin.com/in/rita-de-cássia-milani-59ab7451/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
