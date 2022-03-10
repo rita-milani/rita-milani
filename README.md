@@ -5,8 +5,8 @@
 [![author](https://img.shields.io/badge/author-rita-milani.svg)](https://www.linkedin.com/in/rita-de-cássia-milani-59ab7451/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
-  <img src="banner.jpeg" >
-  <h6><a href='https://www.freepik.com/vectors/background'>Background vector created by starline - www.freepik.com</a></h6>
+  <img src="banner.jpg" >
+  
 </p>
 
 # Rita de Cassia Milani
@@ -33,4 +33,5 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 
 ---
 
+<h6><a href='https://www.freepik.com/vectors/background'>Background vector created by starline - www.freepik.com</a></h6>
 
