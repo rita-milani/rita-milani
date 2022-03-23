@@ -25,10 +25,17 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 
 ## Projects:
 
+Tourism:
 * **Airbnb Analysis for Singapore** https://bit.ly/38w0GFy
+
+Violence:
 * **Cell Theft in Rio de Janeiro** https://bit.ly/39BVnVG
 * **Violence in Rio de Janeiro** https://bit.ly/2WQdl2W
+
+Health:
 * **Daily Covid-19** https://bit.ly/341sRdO
+
+Real Estate:
 * **Housing Value Estimation with Simple Linear Regression** https://bit.ly/3cDEWsV
 
 ---
