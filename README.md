@@ -29,7 +29,7 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 * [Airbnb Analysis for Singapore](https://bit.ly/38w0GFy)
 
 **Finance**
-* [Credit Card Fraud Detection](
+* [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
 
 **Public Security:**
 * [Cell Theft in Rio de Janeiro](https://bit.ly/39BVnVG)
