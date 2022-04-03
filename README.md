@@ -26,14 +26,14 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 ## Projects:
 
 **Tourism:**
-* [Airbnb Analysis for Singapore](https://github.com/rita-milani/Air_Bnb_Singapore/blob/main/Air_Bnb_Singapore.ipynb)
+* [Airbnb Analysis for Singapore](https://github.com/rita-milani/Air_Bnb_Singapore/blob/main/README.md)
 
 **Finance**
-* [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
+* [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/README.md)
 
 **Public Security:**
-* [Cell Theft in Rio de Janeiro](https://github.com/rita-milani/Cell_Theft_Rio)
-* [Violence in Rio de Janeiro](https://github.com/rita-milani/Violence_in_Rio)
+* [Cell Theft in Rio de Janeiro](https://github.com/rita-milani/Cell_Theft_Rio/blob/main/README.md)
+* [Violence in Rio de Janeiro](https://github.com/rita-milani/Violence_in_Rio/blob/main/README.md)
 
 **Public Health:**
 * [Daily Covid-19](https://bit.ly/341sRdO)
