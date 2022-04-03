@@ -2,7 +2,7 @@
 
 
 
-[![author](https://img.shields.io/badge/author-rita-milani.svg)](https://www.linkedin.com/in/rita-de-cássia-milani-59ab7451/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
+[![author](https://img.shields.io/badge/author-rmilani-red.svg)](https://www.linkedin.com/in/rita-de-cássia-milani-59ab7451/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
   <img src="banner.jpg" >
@@ -16,27 +16,32 @@ As a experienced Economist at Banco Bradesco, I combine analytical skills, abili
 
 My credentials include a Master in Agricultural Economics at Universität Hohenheim, an institution of higher education and one of the most prestigious in Agricultural Sciences in Germany, and a Bachelor in Economics at USP, one of the main universities in Brazil. 
 
-**Background in:** Python, R, Stata
+**Background in:** Python, R, Stata, Machine Learning
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rita-de-cássia-milani-59ab7451/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@rita.milani)
 
 
 ## Projects:
 
-Tourism:
-* **Airbnb Analysis for Singapore** https://bit.ly/38w0GFy
+**Tourism:**
+* [Airbnb Analysis for Singapore](https://bit.ly/38w0GFy)
 
-Public Security:
-* **Cell Theft in Rio de Janeiro** https://bit.ly/39BVnVG
-* **Violence in Rio de Janeiro** https://bit.ly/2WQdl2W
+**Finance**
+* [Credit Card Fraud Detection](
 
-Health:
-* **Daily Covid-19** https://bit.ly/341sRdO
+**Public Security:**
+* [Cell Theft in Rio de Janeiro](https://bit.ly/39BVnVG)
+* [Violence in Rio de Janeiro](https://bit.ly/2WQdl2W)
 
-Real Estate:
-* **Housing Value Estimation with Simple Linear Regression** https://bit.ly/3cDEWsV
+**Public Health:**
+* [Daily Covid-19](https://bit.ly/341sRdO)
+
+**Real Estate:**
+* [Housing Value Estimation with Simple Linear Regression](https://bit.ly/3cDEWsV)
+
+
 
 ---
 
