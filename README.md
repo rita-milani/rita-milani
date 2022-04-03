@@ -32,8 +32,8 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 * [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
 
 **Public Security:**
-* [Cell Theft in Rio de Janeiro](https://bit.ly/39BVnVG)
-* [Violence in Rio de Janeiro](https://bit.ly/2WQdl2W)
+* [Cell Theft in Rio de Janeiro](https://github.com/rita-milani/Cell_Theft_Rio)
+* [Violence in Rio de Janeiro](https://github.com/rita-milani/Violence_in_Rio)
 
 **Public Health:**
 * [Daily Covid-19](https://bit.ly/341sRdO)
