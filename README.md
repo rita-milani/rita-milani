@@ -26,7 +26,7 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 ## Projects:
 
 **Tourism:**
-* [Airbnb Analysis for Singapore](https://bit.ly/38w0GFy)
+* [Airbnb Analysis for Singapore](https://github.com/rita-milani/Air_Bnb_Singapore/blob/main/Air_Bnb_Singapore.ipynb)
 
 **Finance**
 * [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
