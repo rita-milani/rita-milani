@@ -36,10 +36,10 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 * [Violence in Rio de Janeiro](https://github.com/rita-milani/Violence_in_Rio/blob/main/README.md)
 
 **Public Health:**
-* [Daily Covid-19](https://bit.ly/341sRdO)
+* [Daily Covid-19](https://github.com/rita-milani/Daily_Covid/blob/main/README.md)
 
 **Real Estate:**
-* [Housing Value Estimation with Simple Linear Regression](https://bit.ly/3cDEWsV)
+* [Housing Value Estimation with Simple Linear Regression](https://github.com/rita-milani/Housing_Price_Linear_Regression/blob/main/README.md)
 
 
 
