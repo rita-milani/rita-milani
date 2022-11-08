@@ -31,6 +31,7 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 **Finance**
 * [Credit Card Fraud Detection](https://github.com/rita-milani/Credit_Card_Fraud_Detection/blob/main/README.md)
 * [Brazilian Inflation - IBGE](https://github.com/rita-milani/Inflation_barchart/blob/main/README.md)
+* [Calculating Individual Life Insurance Premium](https://github.com/rita-milani/Life_Insurance_PyCaret/blob/main/README.md) 
 
 **Public Security:**
 * [Cell Theft in Rio de Janeiro](https://github.com/rita-milani/Cell_Theft_Rio/blob/main/README.md)
