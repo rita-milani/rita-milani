@@ -39,7 +39,7 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 
 **Public Health:**
 * [Daily Covid-19](https://github.com/rita-milani/Daily_Covid/blob/main/README.md)
-* [Predicting Baby Health: a Pycaret Application](https://github.com/rita-milani/Fetal_Health_Classification/blob/main/README.md)
+* [Predicting Baby Health: a PyCaret Application](https://github.com/rita-milani/Fetal_Health_Classification/blob/main/README.md)
 
 **Real Estate:**
 * [Housing Value Estimation with Simple Linear Regression](https://github.com/rita-milani/Housing_Price_Linear_Regression/blob/main/README.md)
